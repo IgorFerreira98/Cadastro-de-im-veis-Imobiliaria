@@ -1,2 +1,3 @@
-# Cadastro-de-im-veis-Imobiliaria
-Site de uma Imobiliaria para cadastro de imóveis a venda.
+# Página para Cadastro de Imóveis de uma Imobiliaria.
+
+Site criado com Bootstrap e PHP ultilizando o MySQL como banco de dados.
